@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebServiceDatosAbiertos</string>
+    <string name="ips">ips</string>
+    <string name="Marca">Marca</string>
+    <string name="Modelo">Modelo</string>
+    <string name="acerca">Acerca de</string>
+    <string name="regresar">Regresar</string>
+    <string name="Placa">Placa</string>
+    <string name="Propiedad">Propiedad</string>
+    <string name="Tipo">Tipo</string>
+</resources>

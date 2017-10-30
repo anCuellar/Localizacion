@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acerca">About</string>
+    <string name="regresar">Return</string>
+    <string name="ips">ips</string>
+    <string name="Marca">Brand</string>
+    <string name="Modelo">Model</string>
+    <string name="Placa">plate</string>
+    <string name="Propiedad">Property</string>
+    <string name="Tipo">Kind</string>
+</resources>
